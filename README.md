@@ -197,5 +197,4 @@ https://media.giphy.com/media/4JVQ69mhL0iss5ox2Y/giphy.gif
     https://www.tutorialspoint.com/android/android_spinner_control.htm
  
      
- **“Experience is the only teacher we have. we may talk and reason all our lives, but we shall not understand a word of truth.”**
 
